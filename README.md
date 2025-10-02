@@ -22,4 +22,4 @@ You can simulate a network error by:
 Opening Chrome DevTools → Network tab.
 Setting network mode to “Offline.”
 Clicking the Reload button.
-You’ll see a user-friendly error message, showing that error handling works.
+You’ll see a user-friendly error message, showing that error handling work.
